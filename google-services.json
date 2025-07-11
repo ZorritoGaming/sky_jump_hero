@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345781535173",
+    "project_id": "sky-jump-hero",
+    "storage_bucket": "sky-jump-hero.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345781535173:android:60dbbf210f859c3c198bac",
+        "android_client_info": {
+          "package_name": "com.skysalto.skyjumphero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFn0GAMDtPcsCBr4pyJH32RlpRPr-UypU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
